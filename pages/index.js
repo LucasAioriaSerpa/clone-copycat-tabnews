@@ -14,6 +14,12 @@ function Home() {
             <p className={styles.text}>i'm holding my love with all my will <br/>
             they say what i feel is just because i'm lonely.. but they don't know the truth-
             </p>
+            <p className={styles.text}>the truth that my heart belongs to you..<br/>
+            and without you, i'm lost in this world..
+            </p>
+            <p className={styles.text}>so please take care my love </p>
+            <p className={styles.text}>and more importantly <br/><br/> don't forget</p>
+            <p className={styles.text}>i'm with you in the dark...</p>
         </main>
     )
 }
