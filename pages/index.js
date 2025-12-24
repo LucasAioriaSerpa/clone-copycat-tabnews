@@ -1,6 +1,15 @@
+import Image from 'next/image'
 
 function Home() {
-    return <h1>"Dar não é facil"<br/>- pablo</h1>
+    return (
+        <Image
+            loading='eager'
+            src="/images/pablofrases.png"
+            width={1000}
+            height={1000}
+            alt="plablo_frases"
+        />
+    )
 }
 
 export default Home
