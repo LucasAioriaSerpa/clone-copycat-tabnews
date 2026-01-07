@@ -4,12 +4,17 @@
   "description": "Criando um clone/copycat do tabnews.com.br, utilizando como base curso.dev",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4"
   }
 }
