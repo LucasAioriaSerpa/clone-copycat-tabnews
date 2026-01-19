@@ -14,7 +14,8 @@ function Home() {
           />
           <p>CopycatTabnews</p>
         </div>
-        <label className={styles.switch}>
+        {/* //!  toggle tema escuro e tema claro  !\\ */}
+        {/* <label className={styles.switch}>
           <span className={styles.sun}>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
               <g fill="#ffd43b">
@@ -30,7 +31,7 @@ function Home() {
           </span>
           <input type="checkbox" id="theme-togle" className={styles.input} />
           <span className={styles.slider}></span>
-        </label>
+        </label> */}
       </header>
       <main>
         <h1>Clone / Copycat do tabnews em construção!!!</h1>
