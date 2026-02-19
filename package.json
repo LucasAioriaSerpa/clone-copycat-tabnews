@@ -13,7 +13,7 @@
     "test": "jest",
     "test:watch": "jest --watchAll"
   },
-  "author": "",
+  "author": "copycat-Tabnews: Lucas.A.S / Garudaakuma || original Tabnews: Felipe de Champs ",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
